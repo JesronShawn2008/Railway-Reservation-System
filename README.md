@@ -1,8 +1,8 @@
 # Railway-Reservation-System
 
-# Reg No:
-# Name:
-# Date:
+# Reg No: 212225100019
+# Name: Jesron Shawn C J
+# Date: 22/05/2026
 
 
 # AIM:
@@ -41,6 +41,7 @@ Specifying the context and requirements of a system
 
 
 
+<img width="723" height="728" alt="image" src="https://github.com/user-attachments/assets/2b671384-fdf4-4073-bd7f-9ede2ccabf33" />
 
 
 
@@ -60,6 +61,8 @@ Visually express any specific needs of a system and disseminate that information
 Create detailed charts that…
 
 
+<img width="878" height="698" alt="image" src="https://github.com/user-attachments/assets/a68dc56b-9475-49af-8e38-416ccdc84839" />
+
 
 # COMMUNICTION DIAGRAM:
 
@@ -68,6 +71,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
 
+<img width="912" height="638" alt="image" src="https://github.com/user-attachments/assets/7732d8bc-9daa-4686-b87e-1466d5c8e1ee" />
 
 
 # PACKAGE DIAGRAM:
@@ -81,6 +85,7 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 
 
+<img width="785" height="551" alt="image" src="https://github.com/user-attachments/assets/3bec64e2-0947-4488-8ee5-3e224b888395" />
 
 
 
@@ -98,6 +103,7 @@ Demonstrate the logic of an algorithm.
 Describe the steps performed in a UML use case.
 
 
+<img width="528" height="735" alt="image" src="https://github.com/user-attachments/assets/c59b3a59-c901-46a9-a0d0-3cf94bd308f5" />
 
 
 
@@ -106,6 +112,9 @@ Describe the steps performed in a UML use case.
 A sequence diagram is a type of intera jon diagram because it describes how- and in what order a group of objects works together. These diagrams are used by software developers and business professionals to understand requirements for
 
 a new system or to document an existing process. Sequence diagrams are sometimes known as event diagrams or event scenarios.
+
+
+<img width="817" height="735" alt="image" src="https://github.com/user-attachments/assets/88411218-c2af-42e2-9d7b-8acf1ef55681" />
 
 
 # BENEFITS OF SEQUENCE DIAGRAM
